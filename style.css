@@ -12,33 +12,33 @@ body {
   font-family: "Outfit", sans-serif;
 }
 
-.main {
+main {
   max-width: 20rem;
   min-height: 30rem;
   background-color: #fff;
   padding: 20px;
-  margin: 200px 0px;
+  margin: 100px 0px;
   border-radius: 20px;
 }
 
-.qr-code img {
+img {
   max-width: 17.5rem;
   min-height: 15rem;
   border-radius: 9px;
 }
 
-.qr-content {
+article {
   margin: 1rem 0.2rem;
   text-align: center;
 }
 
-.qr-content h2 {
+h2 {
   margin: 1rem 0rem;
   font-weight: 700;
-  font-size: 1.5rem;
+  font-size: 24px;
 }
 
-.qr-content p {
+p {
   font-size: 15px;
   color: hsl(212, 23%, 60%);
 }
