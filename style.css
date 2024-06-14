@@ -9,6 +9,8 @@
 body {
   background-color: rgb(201, 217, 222);
   font-family: "Outfit", sans-serif;
+  min-height: 100vh;
+  padding: 8rem;
 }
 
 .container {
@@ -28,11 +30,12 @@ body {
   padding: 1.3rem 1rem;
   border-radius: 1rem;
   text-align: center;
-  margin: 100px 0px;
+  /* margin: 100px 0px; */
 }
 
 img {
-  max-width: 15.7rem;
+  display: block;
+  max-width: 100%;
   border-radius: 9px;
 }
 
