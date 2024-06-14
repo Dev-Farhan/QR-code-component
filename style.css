@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: hsl(212, 45%, 89%);
+  background-color: rgb(201, 217, 222);
   font-family: "Outfit", sans-serif;
   min-height: 100vh;
   padding: 8rem;
